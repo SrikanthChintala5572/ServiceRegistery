@@ -4,6 +4,18 @@ In this Service registry project I have used eureka server to register the micro
 
 This project has been developed using the below softwares Java 17, Spring-boot 3.1.4 and Maven.
 
-Steps to run: Download this project Import as Maven project in any IDE Do a clean build Start the application
+Steps to run:
+Clone this project
+
+Import as Maven project in any IDE 
+
+Do a clean build
+
+Start the application
+
+Url to check: 
+http://localhost:8761
+
+You can see the eureka server started and is ready to get the services registered
 
 Note: This project has to start first because this is the service registry and all microservices created will register here.
